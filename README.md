@@ -28,7 +28,6 @@ The ft_printf function supports a wide range of format specifiers, allowing you 
 %d or %i: Signed decimal integer <br/>
 %u: Unsigned decimal integer <br/>
 %x or %X: Unsigned hexadecimal integer <br/>
-%f: Floating-point number <br/>
 %p: Pointer address <br/>
 </div>
 <br/>
