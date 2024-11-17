@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> ft_printf - 1337 bg </h1>
+<h1> ft_printf - 1337 benguerir </h1>
 
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 
