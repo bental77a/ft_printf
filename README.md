@@ -35,7 +35,7 @@ The ft_printf function supports a wide range of format specifiers, allowing you 
 These format specifiers enable you to print data in a specific format, making it easier to display and interpret different types of information.
 
 Width and Precision
-You can specify the width and precision of the output using optional flags in the format specifier. The width determines the minimum number of characters to be printed, while the precision specifies the maximum number of characters to be printed for strings or the number of decimal places for floating-point numbers.
+You can specify the width and precision of the output using optional flags in the format specifier. The width determines the minimum number of characters to be printed, while the precision specifies the maximum number of characters to be printed for strings.
 
 
 <h2> Variadic Argument Handling </h2>
