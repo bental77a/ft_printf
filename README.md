@@ -2,9 +2,9 @@
 
 <h1> ft_printf - 1337 benguerir </h1>
 
+<a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 
 </div> 
-<a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <label>   
 	<h2> Score </h2>	 
 	<img alt="100" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
