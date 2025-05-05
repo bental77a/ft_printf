@@ -5,10 +5,6 @@
 <a href="https://github.com/bnetal77a/ft_printf.git">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 
 </div> 
-<label align="center">   
-	<h2> Score </h2>	 
-	<img alt="100" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
-</label> 
   
 <h2> Introduction </h2> 
 
